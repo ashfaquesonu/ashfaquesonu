@@ -7,20 +7,17 @@
 
 - 📫 How to reach me **ashfaque678583@gmail.com**
 
+- 📄 Know about my experiences [https://drive.google.com/file/d/1oApsk1uOpw97DgsNB2P32QD9GXMoB-Re/view](https://drive.google.com/file/d/1oApsk1uOpw97DgsNB2P32QD9GXMoB-Re/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/muhammed-ashfaque-m-019538246/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/muhammed-ashfaque-m-019538246/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/muhammed-ashfaque-m-019538246/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mohammad-hisham-b14296228/" height="30" width="40" /></a>
 
 </p>
 
 
 </p>
 
-<div align="center"> 
-   <img src="https://streak-stats.demolab.com?user=hishammpsnhn&theme=gruvbox-duo&hide_border=true&border_radius=&date_format=j%20M%5B%20Y%5D&card_width=400" alt="Github Stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=hishammpsnhn&show_icons=true&bg_color=00000000&hide=contribs&theme=codeSTACKr&text_bold=false&hide_border=true&card_width=350" alt="Github Stats">
-</div>
 
 
 

@@ -7,7 +7,6 @@
 
 - 📫 How to reach me **ashfaque678583@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1oApsk1uOpw97DgsNB2P32QD9GXMoB-Re/view](https://drive.google.com/file/d/1oApsk1uOpw97DgsNB2P32QD9GXMoB-Re/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

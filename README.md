@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Muhammed Ashfaque M</h1>
-<h3 align="center">A Passionate Frontend Developer From India</h3>
+<h3 align="center">A Passionate Data Analyst From India</h3>
 
 
 

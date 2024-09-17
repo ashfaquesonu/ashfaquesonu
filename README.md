@@ -1,8 +1,8 @@
 
+<img align="" src="https://t4.ftcdn.net/jpg/04/35/31/47/360_F_435314769_TXsKQ6aQfoHMZJfGcXtaXhyoY7iHK3ld.jpg" height="30%" width="100%" />
 
 <h1 align="center">Hi 👋, I'm Muhammed Ashfaque M</h1>
 <h3 align="center">A Passionate Data Analyst From India</h3>
-
 
 
 - 📫 How to reach me **ashfaque678583@gmail.com**
@@ -10,7 +10,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/muhammed-ashfaque-m-019538246/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mohammad-hisham-b14296228/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/muhammed-ashfaque-m-019538246/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="" height="30" width="40" /></a>
+<a href="https://www.instagram.com/_a_shfaq_/?hl=en" target="blank"><img align="center" src="https://cdn-icons-png.freepik.com/256/1419/1419499.png?semt=ais_hybrid" alt="" height="30" width="40" /></a>
+
 
 </p>
 

@@ -33,7 +33,7 @@
 <a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/288276?v=4" alt="react" width="40" height="40"/</a>
 <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> <img src="https://pydata.org/wp-content/uploads/2016/07/matplotlib-logo-300.png" alt="react" width="40" height="40"/</a>
 <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/S/seaborn-logo-244EB2DEC5-seeklogo.com.png" alt="react" width="40" height="40"/</a>
-
+<a href="https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.html" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzA_fpifNpb0tJtjQg0MK7q2sw78VXLhTW1w&s" alt="react" width="40" height="40"/</a>
 
 
  

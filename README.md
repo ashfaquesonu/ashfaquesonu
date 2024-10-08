@@ -32,6 +32,7 @@
 <a href="https://learn.microsoft.com/en-us/power-query/power-query-what-is-power-query" target="_blank" rel="noreferrer"> <img src="https://images.squarespace-cdn.com/content/v1/55314942e4b0fc1dd672a975/1531185837186-3171YDS3EBXYJZUMRFUQ/Power+Query+Icon.png" alt="react" width="40" height="40"/</a>
 <a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/288276?v=4" alt="react" width="40" height="40"/</a>
 <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> <img src="https://pydata.org/wp-content/uploads/2016/07/matplotlib-logo-300.png" alt="react" width="40" height="40"/</a>
+<a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/S/seaborn-logo-244EB2DEC5-seeklogo.com.png" alt="react" width="40" height="40"/</a>
 
 
 

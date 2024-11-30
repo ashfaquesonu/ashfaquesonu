@@ -36,6 +36,7 @@
 <a href="https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.html" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzA_fpifNpb0tJtjQg0MK7q2sw78VXLhTW1w&s" alt="react" width="40" height="40"/</a>
 <a href="https://www.investopedia.com/terms/d/data-analytics.asp" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.freepik.com/512/10682/10682819.png" alt="react" width="40" height="40"/></a>
 <a href="https://www.postgresql.org/docs/current/app-psql.html" target="_blank" rel="noreferrer"> <img src="https://static-00.iconduck.com/assets.00/database-postgres-icon-1954x2048-7fckw24v.png" alt="react" width="40" height="40"/></a>
+<a href="https://learn.microsoft.com/en-us/power-platform/guidance/icons" target="_blank" rel="noreferrer"> <img src="https://cdn3d.iconscout.com/3d/premium/thumb/microsoft-power-bi-3d-icon-download-in-png-blend-fbx-gltf-file-formats--logo-analytics-data-visualization-office-pack-appliances-icons-8500319.png?f=webp" alt="react" width="40" height="40"/></a>
 
  
  </p>
